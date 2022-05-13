@@ -1,0 +1,44 @@
+.logo{
+	width: 10em;
+	border: none;
+	border-radius: 100px;
+}
+a.navbar-brand {
+	text-decoration: none;
+	color: white!important;
+}
+a.nav-link {
+	text-decoration: none;
+	color: white!important;
+}
+.navbar, .navbar-expand-lg, .bg-warning, .navbar-light{
+	background-color: #DB7093!important;
+	border-bottom-right-radius: 80px;
+	border-bottom-left-radius: 80px;
+}
+nav{
+	background-color: red;
+	color: red;
+}
+element.style{
+	left: 110px;
+}
+.dropdown-menu.show {
+	background-color: white!important;
+}
+body {
+	background-color: #FFC0CB!important;
+}
+.bg-light {
+	background-color: #FFC0CB!important;
+}
+.col-sm-6 {
+	color: white!important;
+}
+h3 {
+	color: white!important;
+}
+img{
+	width: 100%;
+	padding: 1em;
+}
